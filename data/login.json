@@ -1,0 +1,9 @@
+{
+    "status": true,
+    "data": {
+        "token": "xxx",
+        "id": 1,
+        "name": "linh",
+	    	"password":1
+    }
+}

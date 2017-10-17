@@ -1,0 +1,35 @@
+{
+  "name": "viblo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/datnq201088/angular-structure.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/datnq201088/angular-structure/issues"
+  },
+  "homepage": "https://github.com/datnq201088/angular-structure#readme",
+  "devDependencies": {
+    "express": "^4.14.0",
+    "http": "0.0.0",
+    "socket.io": "^1.7.4"
+  },
+  "dependencies": {
+    "angular": "^1.6.6",
+    "angular-socket-io": "^0.7.0",
+    "angular-ui-router": "^0.4.3",
+    "bootstrap": "^3.3.7",
+    "bower": "^1.8.2",
+    "install": "^0.10.1",
+    "ngstorage": "^0.3.11",
+    "restangular": "^1.6.1"
+  }
+}
